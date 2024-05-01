@@ -8,7 +8,7 @@ NB3 = Captains("NB3", 5000)
 Voyboy = Captains("Voyboy", 7000)
 
 Shroud = Captains("Shroud", 30000)
-Summit1G = Captains("Summit1G", 25000)
+Summit1G = Captains("Summi1G", 25000)
 Ninja = Captains("Ninja", 25000)
 Sliker = Captains("Sliker", 5000)
 
