@@ -9,7 +9,7 @@ class Captains():
 
 
     def IsContentGolem(self, name):
-        if name.content_golem >= 20000:
+        if name.content_golem >= 30000:
             return True
 
 
